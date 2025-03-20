@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+
 
 website:
   title: "My DSCI 310 Website"
@@ -20,6 +22,6 @@ format:
 # overwrite any render-on-save option
 editor:
   render-on-save: true
-  
+
 
 
